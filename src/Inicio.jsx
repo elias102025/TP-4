@@ -1,10 +1,10 @@
-import React from "react";
+import SubirImagen from "./SubirImagen.jsx";
 
 const Inicio = () => {
   return (
     <div>
-      <h1>Subir Imagen</h1>
-      {/* Aquí va tu componente de subir imagen del TP3 */}
+      <h2>Subir imagen</h2>
+      <SubirImagen />
     </div>
   );
 };
